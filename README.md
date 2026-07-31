@@ -1,4 +1,7 @@
+# AIM
 # Attenuation Measurement 2.5 GB & 10 GB
+
+# Material needed
 # Attenuation-Limited Fiber Length
 
 ## Objective
@@ -75,10 +78,18 @@ Your report should contain:
 - **Pre-lab Calculations**  
 
 - **Screenshots** of layout and results (including eye diagrams)  
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8c73f8a8-3270-4110-b3b0-811d689aa7e5" />
+
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/1f53602c-9af5-46ee-a8f4-8e51ed8d694c" />
+
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/07ce567d-9f1c-4fcc-9be5-e7942df8a7fd" />
+
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/5c5ab5cd-4c7e-4090-8607-fd9c91242180" />
 
 - **Summary Table** for each simulation:
   | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
   |-------------------|-----------------------|----------|-----|
-  
+  <img width="1125" height="1469" alt="image" src="https://github.com/user-attachments/assets/85493ccf-2f26-4460-a329-ecca9ee45b21" />
+
 
 - **Written Summary** of observations and explanations of differences.  
