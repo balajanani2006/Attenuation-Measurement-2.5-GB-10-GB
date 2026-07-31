@@ -93,3 +93,8 @@ Your report should contain:
 
 
 - **Written Summary** of observations and explanations of differences.  
+
+# Result
+Thus the Experiment was succesfully completed and output is verified.
+
+
